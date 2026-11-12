@@ -1,5 +1,9 @@
 # i_hate_realtek
 
+> "Dear Harry, who's responsible? Sign that, 'Affectionately, A Dissatisfied Customer.'"
+>
+> — Hawkeye Pierce, dictating his telegram to Harry S. Truman, *M\*A\*S\*H*, "Dr. Pierce and Mr. Hyde" (1973)
+
 Open, clean-room replacements for Realtek's closed firmware and out-of-tree drivers, so Realtek hardware runs on
 open code alone and their proprietary drivers can be retired and forgotten.
 
