@@ -3,6 +3,8 @@
 Open, clean-room replacements for Realtek's closed firmware and out-of-tree drivers, so Realtek hardware runs on
 open code alone and their proprietary drivers can be retired and forgotten.
 
+> This is for every buggy trashy unmaintained windows-only driver you made and then sold me that didn't work.
+
 ## Why
 
 Many Realtek network, Wi-Fi and Bluetooth chips depend on one or both of:
