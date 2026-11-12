@@ -5,6 +5,16 @@ open code alone and their proprietary drivers can be retired and forgotten.
 
 > This is for every buggy trashy unmaintained windows-only driver you made and then sold me that didn't work.
 
+## Part of the "forbidden secret math" driver series
+
+This repository is one of a series that replaces closed-source drivers and firmware with well-maintained,
+feature-complete open solutions. The closed path stays in use until its open replacement matches it on every feature
+and measures as good or better.
+
+- [i_hate_realtek](https://github.com/DaveWK/i_hate_realtek): Realtek firmware and drivers
+- [i_hate_powervr](https://github.com/DaveWK/i_hate_powervr): PowerVR GPU firmware (Rust)
+- [design_deez](https://github.com/DaveWK/design_deez): Synopsys DesignWare (DDR PHY training first)
+
 ## Why
 
 Many Realtek network, Wi-Fi and Bluetooth chips depend on one or both of:
